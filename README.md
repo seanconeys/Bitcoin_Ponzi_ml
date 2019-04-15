@@ -1,6 +1,7 @@
 # Bitcoin_Ponzi_ml
-Exploration of models and sampling based class balancing with regards to classification of bitcoin wallets as being associated with 
-ponzi schemes W/ partner Jarred van de Voort
+Classifying Bitcoin Ponzi Schemes with Machine Learning   
+Jarred van de Voort, Sean Coneys  
 
-This piece has two main components: the paper discussing our approach and findings and then the Jupyter notebook(and an easier to view html version) containg the actual machine learning we performed
-as well as some more graphs and data. Additionally included is the programs we used to aggregate and compute the data and metrics.
+The invention of cryptocurrencies has created new opportunities for criminals to leverage a variety of traditional scam techniques. Fraudulent activity associated with cryptocurrency is experiencing explosive growth and is a significant barrier for widespread adoption of blockchain technology. Early detection of ponzi schemes in this domain is a problem that is a good candidate for machine learning and whose impact surpasses hundreds of millions of dollars each year. This paper explores the process of creating a classification model for bitcoin ponzis from start to finish and the main difficulties therein: labelling data, parsing the data, and dealing with an imbalanced dataset. We explore a variety of models as well as methods for dealing with the imbalanced data and discuss their efficacy with regards to this classification problem. Finally we look to the future and discuss interesting avenues of investigation, improvements in data pipelining, and the implications of these models now and in the future.
+
+This project has 4 main components. A paper describing our process, selected findings, and discussions. A jupyter notbook(and html version) with our code and all findings, our dataset, and our code for data aggregation.
