@@ -1,4 +1,3 @@
-# Bitcoin_Ponzi_ml
 Classifying Bitcoin Ponzi Schemes with Machine Learning   
 
 Jarred van de Voort, Sean Coneys  
