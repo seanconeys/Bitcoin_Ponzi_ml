@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/seanconeys/Bitcoin_Ponzi_ml/master/images/blockcheck.png)
 Classifying Bitcoin Ponzi Schemes with Machine Learning   
 
 Jarred van de Voort, Sean Coneys  
